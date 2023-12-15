@@ -1,0 +1,36 @@
+
+nav{
+    background-color:cornflowerblue;
+}
+
+body{
+    background-color: beige;
+}
+
+h1{
+    padding: 70px;
+}
+
+h3{
+    text-align: center;
+    padding: 50px;
+}
+
+div.row{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+div.photo1{
+    padding: 10px;
+}
+
+div.photo2{
+    padding: 10px;
+}
+
+div.photo3{
+    padding: 10px;
+}
